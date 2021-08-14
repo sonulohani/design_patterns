@@ -1,7 +1,7 @@
 #pragma once
 #include <memory>
-#include "HotDrink.h"
-#include "HotDrinkFactory.h"
+#include "Creational.Creational.HotDrink.h"
+#include "Creational.Creational.HotDrinkFactory.h"
 
 struct HotDrink;
 

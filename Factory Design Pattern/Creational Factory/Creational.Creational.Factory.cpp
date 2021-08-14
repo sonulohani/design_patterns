@@ -41,3 +41,10 @@ class PointFactory
     return Point{ r*cos(theta), r*sin(theta) };
   }
 };
+
+int main()
+{
+    PointFactory pf;
+    pf.NewCartesian(2.f, 2.f);
+    return 0
+}

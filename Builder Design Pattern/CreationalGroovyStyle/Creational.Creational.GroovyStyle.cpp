@@ -76,7 +76,7 @@ namespace html {
   };
 }
 
-int main1()
+int main(int argc, char *argv[])
 {
   using namespace html;
 

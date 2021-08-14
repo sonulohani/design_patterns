@@ -43,7 +43,7 @@ public:
   static PointFactory Factory;
 };
 
-int main_2()
+int main()
 {
   // will not work
   // Point p{ 1,2 };
